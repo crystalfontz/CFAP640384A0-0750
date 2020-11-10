@@ -1,4 +1,4 @@
-# CFAP176264A00270
+# CFAP640384A0-0750
 
-Sample code for CFAP176264A0-0270. This product can be found here:
-https://www.crystalfontz.com/product/cfap176264A00270
+Sample code for CFAP640384A0-0750. This product can be found here:
+https://www.crystalfontz.com/product/cfap640384a00750

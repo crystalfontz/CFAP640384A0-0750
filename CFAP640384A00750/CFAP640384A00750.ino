@@ -55,10 +55,10 @@
 //
 // ARDUINO  |Wire Color |Function
 // ---------+-----------+--------------------
-// D2       |Blue       |CS
-// D3       |Green      |MOSI
-// D4       |Brown      |CLK
-// D5       |Purple     |MISO
+// D8       |Blue       |CS
+// D11      |Green      |MOSI
+// D12      |Purple     |MISO
+// D13      |Brown      |CLK
 //
 //
 //=============================================================================
